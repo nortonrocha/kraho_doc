@@ -1,4 +1,4 @@
-﻿Krahô, regras de vendas - QrCode:
+Krahô, regras de vendas - QrCode:
 
 -> O sistema terá permissão de leitura de QrCode para que o cliente que solicitou/solicitar o cubo poder enviar uma mensagem, presente ou qualquer coisa que seja possível de se digitalizar uma referência a ela;
 
@@ -6,5 +6,3 @@
 O usuário poderia comprar um lanche qualquer e receberia o cubo gratuitamente. Esse cubo, tendo a referência do QrCode, poderá informar ao usuário quais as promoções, se ganhou o que acabou de ganhar, desconto do dia, sorteios, etc.
 
 -> O sistema deverá ter um painel de parceiros, para que possam se cadastrar e solicitar uma reunião para acertos de regras de negócios, e um painel do usuário para que o mesmo possa consultar os conteúdos contidos nos “baús” dos parceiros nos quais o usuário é cliente.
-
-LINHA TESTE
